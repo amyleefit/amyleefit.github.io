@@ -1,0 +1,170 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<head lang="en">
+	<meta http-equiv="content-type" content="text/html;charset=utf-8">
+	<title>In Shape Template Documentation</title>
+	<!-- Framework CSS -->
+	<link rel="stylesheet" href="assets/blueprint-css/screen.css" type="text/css" media="screen, projection">
+	<link rel="stylesheet" href="assets/blueprint-css/print.css" type="text/css" media="print">
+	<!--[if lt IE 8]><link rel="stylesheet" href="assets/blueprint-css/ie.css" type="text/css" media="screen, projection"><![endif]-->
+	<link rel="stylesheet" href="assets/blueprint-css/plugins/fancy-type/screen.css" type="text/css" media="screen, projection">
+	<style type="text/css" media="screen">
+		p, table, hr, .box { margin-bottom:25px; }
+		.box p { margin-bottom:10px; }
+	</style>
+</head>
+
+
+<body>
+	<div class="container">
+    
+		<h3 class="center alt">&ldquo;In Shape&rdquo; Documentation by &ldquo;ThemeFuse&rdquo; v1.0</h3>
+		
+		<hr>
+		
+		<h1 class="center">&ldquo;In Shape&rdquo;</h1>
+		
+		<div class="borderTop">
+			<div class="span-6 colborder info prepend-1">
+				<p class="prepend-top">
+					<strong>
+					Created: June 16, 2014<br>
+					By: <a href="http://themefuse.com">ThemeFuse</a><br>
+					Support: <a href="http://support.themefuse.com/hc/en-us/requests/new">In Shape</a> (you'll need an account on ThemeFuse)
+					</strong>
+				</p>
+			</div><!-- end div .span-6 -->		
+	
+			<div class="span-12 last">
+				<p class="prepend-top append-0">Thanks for purchasing this template, in this way supporting our efforts of bringing premium quality design and coding to you. This file contains general usage terms but also some useful information about the files included in the archive. If you have any questions about the theme please feel free to <a href="http://support.themefuse.com/hc/en-us/requests/new">submit a ticket</a> in our help desk. We would love to hep you.</p>
+			</div>
+		</div><!-- end div .borderTop -->
+		
+		<hr>
+		
+		<h2 id="toc" class="alt">Table of Contents</h2>
+		<ol class="alpha">
+			<li><a href="#htmlStructure">HTML Structure</a></li>
+			<li><a href="#cssFiles">CSS Files and Structure</a></li>
+			<li><a href="#contact">Contact form <!-- & Twitter Widget--></a></li>
+			<li><a href="#seo">Search Engine Optimization </a></li>
+			<li><a href="#psd">PSD Files and Fonts</a></li>
+		</ol>
+		
+		<hr>
+		
+		<h3 id="htmlStructure"><strong>A) HTML Structure</strong> - <a href="#toc">top</a></h3>
+        
+        <h4><strong>Homepage</strong></h4>      
+        <p>The basic structure of the <strong>index page</strong> where you can find the visual representation of the HTML structure.</p>
+        <img src="assets/images/visual_structure.jpg" alt="HTML Structure" />
+		<br><br>
+        
+        <p>The basic structure of the <strong>blog page</strong> together with the visual representation of the HTML structure.</p>
+        <img src="assets/images/secondary_structure.jpg" alt="HTML Structure" />
+		<br><br><br>
+        
+		<hr>
+
+
+		<h3 id="cssFiles"><strong>B) CSS Files and Structure</strong> - <a href="#toc">top</a></h3>
+        
+        <p>On the CSS side we load the standard Bootstrap files:</p>
+        <img src="assets/images/css.jpg" alt="CSS Structure" /><br><br>
+        
+		<p>In Shape is built on Bootstrap, one of the most popular front-end framework for developing responsive, mobile first projects on the web. It makes front-end web development faster and easier. It's made for folks of all skill levels, devices of all shapes, and projects of all sizes. 
+        More about how Bootstrap's CSS works can be found here: <a href="http://getbootstrap.com/css/">http://getbootstrap.com/css/</a></p>
+        
+        <br>
+
+<hr>
+
+<!-- 
+<h4><strong>This template has in 3 index post structures:</strong></h4>
+        
+        <p><strong>One column</strong> - the default one</p>
+        <img src="assets/images/1col.jpg" alt="CSS" />
+        <br><br>
+        
+        <p><strong>Two columns</strong></p>
+        <img src="assets/images/2col.jpg" alt="CSS" />
+        <br><br>
+        
+        <p><strong>Dynamic</strong> - as many post columns as the resolution permits</p>
+        <img src="assets/images/dynamic.jpg" alt="CSS" />
+        <br><br>
+        
+		<hr>
+		
+		<h3 id="js"><strong>C) JavaScript</strong> - <a href="#toc">top</a></h3>
+		
+		<p>This template imports different js files for the different sliders, lightboxes and interactive tabs from the homeplage and the rest of the pages. All the js is built around JQuery. What follows are some examples where jQuery was used:</p>
+        
+        <p><strong>Sliders</strong></p>
+        <img src="assets/images/galleries.jpg" alt="js" />
+        <br><br>
+        
+        <p><strong>Tabs and toggles</strong></p>
+        <img src="assets/images/tabs.jpg" alt="js" />
+        <br><br>
+    
+        <hr>
+        
+-->
+		
+		<h3 id="contact"><strong>C) Contact form <!-- & Twitter Widget --></strong> - <a href="#toc">top</a></h3>
+<!-- <p><strong><h3>Contact form</h3></strong></p> -->
+<p>In the root folder of the file you’ll find a <strong>sendmail.php</strong> file. This file takes care of the contact form from the contact us page. Even if the verifications of the form is made by js, this file will not work if you are not uploading it on your server. It needs the PHP server from your host in order to run.</p>
+
+<p>You need to change 2 things before you upload it on your server: the name of your blog, and the email you want the contact form to be sent to. To do this modifications, open the sendmail.php and edit lines 5 and 6 from the file.</p>
+
+<p>If you want to add another input field in the html file, you don’t need to edit the sendmail.php at all, just open the html page where the form is, add another input and if you want that input to be a mandatory field, you have to add the css=”required”. Note that this new input has to have name=”[example]“ and id=”[example]“</p>
+
+<!--
+<p><strong><h3>Twitter widget</h3></strong></p>
+<p>We have set up our twitter account there for demo purposes. All you need to do is change it with your own. You can do that on line 2 and 3 in the <strong>general.js</strong> file. On line 2 you will find <strong><em>(var twitter_username = 'themefuse';)</em></strong>, <em><strong>themefuse</strong></em> needs to be changed with your twitter username, and on line 3 <strong><em>(var items = 2;)</em></strong> you can change the number of twitts the widget will display.</p>
+
+<p><em><strong>Important:</strong></em> <br><br>
+- Note that this will work only when it is on your server, exactly like the contact form. <br>
+- You need to have the CURL extension activated in PHP<br>
+- The <em><strong>cache</strong></em> folder from the <em><strong>twitter </strong></em>folder needs to have 777 permission</p>
+-->
+		
+		
+		<hr>
+        
+        <h3 id="seo"><strong>D) Search Engine Optimization</strong> - <a href="#toc">top</a></h3>
+		
+		<p>In order to improve your search engine ranking, and thus enable your web site to appear among search results, please don’t forget to change the description and keywords with your own.</p>	
+        
+        <img src="assets/images/seo.jpg" alt="seo" /><br><br>
+        
+        <p>As a best practice, the keywords from the meta tag are words that you should use in the texts from the page.</p>
+        
+        <hr>
+        
+        <h3 id="psd"><strong>E) PSD Files and Fonts</strong> - <a href="#toc">top</a></h3>
+        
+        <p><strong>PSD Files</strong></p>
+		
+		<p>We’ve included all the psd files designed for the template and used to create the HTML. This files are usually used to create proposals for clients or for modifying different parts of the HTML template. You may see different bllured images in the PSD files. The reason why this is happening is that we are not allowed to redistribute these images. We used them for demo purposes only and they need to be changed with your own. </p> 
+
+
+        
+        <p><strong>Fonts</strong></p>
+		
+		<p>We’ve used an open font in some of the titles and paragraphs:<br><br>
+			
+            - <a href="https://www.google.com/fonts/specimen/Montserrat" target="_blank">Montserrat</a> <br>
+        </p>
+	
+		<hr>
+		
+		<p>Once again, thank you so much for purchasing this template. As we said at the beginning, we'd be glad to help you if you have any questions relating to this template, please <a href="http://support.themefuse.com/hc/en-us/requests/new">submit a ticket</a> in our help desk. We would love to help you.</p> 
+		
+		<p class="append-bottom alt large"><strong>ThemeFuse</strong></p>
+		<p><a href="#toc">Go To Table of Contents</a></p>
+		
+		<hr class="space">
+	</div><!-- end div .container -->
+</body>
+</html>
