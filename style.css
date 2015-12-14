@@ -1824,6 +1824,9 @@ address {
 .site-footer .footer-social li a.link-facebook:before {
   content: '\e608';
 }
+.site-footer .footer-social li a.link-instagram:before {
+  content: '\e602';
+}
 .site-footer .footer-social li a.link-twitter:before {
   content: '\e607';
 }
@@ -1834,6 +1837,9 @@ address {
   content: '\e600';
 }
 .site-footer .footer-social li a.link-facebook:hover {
+  color: #3b5998;
+}
+.site-footer .footer-social li a.link-instagram:hover {
   color: #3b5998;
 }
 .site-footer .footer-social li a.link-twitter:hover {
