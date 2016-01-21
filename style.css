@@ -941,7 +941,7 @@ h3 a,
 h4 a,
 h5 a,
 h6 a {
-  color: #291c1c;
+  color: #49C9ED;
 }
 h1 a:hover,
 h2 a:hover,
@@ -5470,7 +5470,7 @@ button {
 .pricelist .price-item .price-head span {
   font-size: 2.3em;
   font-weight: 700;
-  color: #00c8d6;
+  color: #ffffff;
   vertical-align: middle;
 }
 .pricelist .price-item .price-head span {
@@ -5481,12 +5481,12 @@ button {
   padding: 40px;
 }
 .pricelist .price-item .price-content {
-  background-color: #00c8d6;
+  background-color: #FF4684;
   padding: 44px 10px 38px;
   margin-bottom: 40px;
 }
 .pricelist .price-item .price-title {
-  font-size: 2.5em;
+  font-size: 2em;
   color: #ffffff;
   margin-bottom: 1em;
 }
@@ -5501,16 +5501,16 @@ button {
   line-height: 46px;
 }
 .pricelist .price-item.red .price-head strong {
-  color: #d34d5e;
+  color: #46BFFF;
 }
 .pricelist .price-item.red .price-content {
-  background-color: #d34d5e;
+  background-color: #46BFFF;
 }
 .pricelist .price-item.yellow .price-head strong {
-  color: #e7c62d;
+  color: #46BFFF;
 }
 .pricelist .price-item.yellow .price-content {
-  background-color: #e7c62d;
+  background-color: #46BFFF;
 }
 .pricelist .price-item.active {
   font-size: 16px;
