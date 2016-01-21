@@ -1491,7 +1491,7 @@ address {
 .page-title {
   font-size: 42px;
   font-weight: 700;
-  color: #ffffff;
+  color: #404040;
   margin-bottom: 90px;
 }
 @media (max-width: 1199px) {
@@ -2265,18 +2265,16 @@ address {
 .btn input {
   display: block;
   width: 100%;
-  padding: 0 26px;
-  height: 56px;
-  line-height: 52px;
-  outline: none;
-  font-size: 14px;
-  font-weight: 700;
+  padding: 0 35px;
+  height: 65px;
+  line-height: 60px;
+  outline: none;  font-size: 40px;
+  font-weight: 400;
   color: #ffffff;
-  text-transform: uppercase;
   white-space: nowrap;
-  border: 2px solid #00c8d6;
+  border: 2px solid #c10062;
   border-radius: 0;
-  background-color: #00c8d6;
+  background-color: #c10062;
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
   -o-transition: all 0.3s;
@@ -4462,6 +4460,11 @@ button {
 .post .post-thumbnail {
   display: block;
   margin-bottom: 30px;
+}
+
+.potato {
+  font-size: 100px;
+  color: #904929;
 }
 .post .post-thumbnail.pull-left {
   width: 36%;
