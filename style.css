@@ -4483,7 +4483,7 @@ button {
   color: #904929;
 }
 .post .post-thumbnail.pull-left {
-  width: 15%;
+  max-width: 15%;
   margin: 0 30px 15px 0;
 }
 .post .post-thumbnail.pull-right {
