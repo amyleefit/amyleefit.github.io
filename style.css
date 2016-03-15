@@ -108,7 +108,21 @@ CSS STRUCTURE:
     - Tooltips
     - Tables
 
+
+
 */
+/*-----------------------------------*/
+/* Page width issue on devices fix */
+/*-----------------------------------*/
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
 /*-----------------------------------*/
 /* Custom Fonts */
 /*-----------------------------------*/
@@ -375,6 +389,8 @@ html {
 /*-----------------------------------*/
 /* General Styles */
 /*-----------------------------------*/
+
+
 body {
   font-family: 'Montserrat', sans-serif;
   font-size: 15px;
