@@ -6468,7 +6468,7 @@ button {
 .workout-item {
   float: left;
   width: 540px;
-  height: 222px;
+  height: 142px;
   margin: 0 15px 180px;
 }
 .workout-item .workout-image {
@@ -6538,7 +6538,7 @@ button {
     margin-bottom: 20px;
   }
   .workout-item .workout-desc p {
-    line-height: 1.6em;
+    line-height: 1.2em;
   }
 }
 @media (max-width: 991px) {
