@@ -1299,7 +1299,7 @@ address {
   padding: 0 !important;
 }
 .main-row-gray {
-  background-color: #ebeff0;
+  background-color: #FAFFFF;
 }
 .main-row.border-top {
   border-top: 2px solid #ebeff0;
@@ -1339,7 +1339,7 @@ address {
 /* Header */
 /*-----------------------------------*/
 .site-header {
-  background-color: #1a1212;
+  background-color: #FFFFFF;
   height: 80px;
 }
 .header {
@@ -2272,9 +2272,9 @@ address {
   font-weight: 400;
   color: #ffffff;
   white-space: nowrap;
-  border: 2px solid #c10062;
+  border: 2px solid #FC3232;
   border-radius: 0;
-  background-color: #c10062;
+  background-color: #FC3232;
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
   -o-transition: all 0.3s;
@@ -4467,7 +4467,7 @@ button {
   color: #904929;
 }
 .post .post-thumbnail.pull-left {
-  width: 36%;
+  width: 15%;
   margin: 0 30px 15px 0;
 }
 .post .post-thumbnail.pull-right {
@@ -6457,11 +6457,10 @@ button {
 }
 .workout-item .workout-image {
   float: left;
-  width: 200px;
+  width: 18%;
   height: 200px;
   border-radius: 50%;
   margin: 12px 20px 0 0;
-  background-color: #ebeff0;
   text-align: center;
 }
 .workout-item .workout-image i {
