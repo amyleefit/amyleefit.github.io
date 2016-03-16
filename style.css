@@ -127,7 +127,7 @@ html,body
 /* Make youtube video responsive */
 /*-----------------------------------*/
 .video-container {
-	position:absolute;
+	position:relative;
 	padding-bottom:56.25%;
 	padding-top:30px;
 	height:0;
