@@ -7642,7 +7642,7 @@ button {
 }
 .panel .panel-heading .panel-title a {
   display: block;
-  color: #ffffff;
+  color: #000000;
 }
 .panel.panel-default {
   border-color: #00c8d6;
@@ -7669,10 +7669,10 @@ button {
   background: #d45967;
 }
 .panel.panel-info {
-  border-color: #46b8da;
+  border-color: #f3cbe8;
 }
 .panel.panel-info .panel-heading {
-  background: #46b8da;
+  background: #f3cbe8;
 }
 .panel.panel-orange {
   border-color: #d46d21;
@@ -7687,16 +7687,16 @@ button {
   background: #000;
 }
 .panel.panel.panel-teal {
-  border-color: #14b096;
+  border-color: #A9F5F2;
 }
 .panel.panel.panel-teal .panel-heading {
-  background: #14b096;
+  background: #A9F5F2;
 }
 .panel.panel.panel-pink {
-  border-color: #d66bb9;
+  border-color: #81DAF5;
 }
 .panel.panel.panel-pink .panel-heading {
-  background: #d66bb9;
+  background: #81DAF5;
 }
 .panel.panel.panel-purple {
   border-color: #6d59d6;
