@@ -128,9 +128,9 @@ html,body
 /*-----------------------------------*/
 .video-container {
 	position:relative;
-	padding-bottom:330px;
+	padding-bottom:10px;
 	padding-top:10px;
-	height:0;
+	height:auto;;
 	overflow:hidden;
 }
 
