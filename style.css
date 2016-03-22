@@ -1123,7 +1123,7 @@ p {
 blockquote {
   padding: 15px 20px;
   margin: 0 0 20px;
-  font-size: 20px;
+  font-size: 17px;
   border-left: 5px solid #ebeff0;
   font color: #000000;
 }
@@ -2365,7 +2365,7 @@ address {
   padding: 0 35px;
   height: 65px;
   line-height: 60px;
-  outline: none;  font-size: 35px;
+  outline: none;  font-size: 45px;
   font-weight: 400;
   color: #ffffff;
   white-space: nowrap;
