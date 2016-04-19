@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<!--[if lt IE 8 ]><html lang="en" class="no-js oldie"><![endif]-->
+<!--[if IE 8 ]><html lang="en" class="no-js ie8"><![endif]-->
+<!--[if IE 9 ]><html lang="en" class="no-js ie9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="en" class="no-js"><!--<![endif]-->
+<head>
+
+  <script src="//load.sumome.com/" data-sumo-site-id="14d2d0f9401940e51020ffb5d878b1be26e8cef858717fc727c1e94532e1a147" async="async"></script>
+  <!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1122614557773009');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1122614557773009&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Amy Lee Fit: Meal Plans and Workout Plans</title>
+    <meta name="Description" content="Fitness Coach Amy Lee Fit provides meal & workout plans that are fast, healthy & easy - there are options for vegans, vegetarians, gluten and dairy free. Workouts are just 3 Hours Per Week">
+    <meta name="online fitness coach, online personal trainer, workout program, healthy meal plan" content="">
+
+    <!-- Core CSS -->
+    <link href="css/bootstrap.min.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="style.css" media="screen" rel="stylesheet" type="text/css">
+
+    <!-- Animate.css -->
+    <link rel="stylesheet" href="css/animate.css">
+
+    <!-- Custom CSS -->
+    <link href="custom.css" media="screen" rel="stylesheet" type="text/css">
+
+    <!-- Modernizr Library -->
+    <script src="js/libs/modernizr.min.js"></script>
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-73612127-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+
+<body>
+
+
+
+  <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=950307938377665";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+  <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KQ23V3"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KQ23V3');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Header -->
+<header id="masthead" class="site-header">
+    <ul class="nav-menu clearfix">
+        <li><a href="index.html"><span>Home</span></a></li>
+        <li><a href="#aboutamy"><span>About Amy Lee Fit</span></a></li>
+<div class="fb-like" data-href="https://facebook.com/amyleefit" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
+
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=950307938377665";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+<div id="page" class="hfeed site">
+
+    <!-- Main -->
+    <div id="main" class="site-main" role="main">
+
+        <!-- Page Titles & Slider or image -->
+        <section class="main-row main-row-slim">
+            <div class="main-header">
+                <!-- Loading Spinner -->
+                <div id="spinner" class="spinner">
+                    <div class="wBall" id="wBall_1">
+                        <div class="wInnerBall">
+                        </div>
+                    </div>
+
+                </div>
+                <!--/ Loading Spinner -->
+
+                <!-- Alternative site Logo, appears only on Home Page -->
+                <div class="site-logo-alt invisible">Amy Lee Fit<span>Personal Trainer</span></div>
+                <!--/ Alternative site Logo, appears only on Home Page -->
+
+                <!-- Main
+                r -->
+                <div id="main-slider" class="main-slider carousel slide fade-effect invisible">
+                    <!-- Carousel items -->
+                    <div class="carousel-inner">
+                        <!-- Item -->
+                        <section class="active item" style="background-image: url(images/temp/slide-1.jpg);">
+                            <div class="container">
+                                <div class="row">
+                                        <h1 class="page-title" data-animate-in="fadeInLeft" data-animate-out="fadeOutLeft"> <center>                            <center> <div class="video-container"> <iframe width="560" height="315" src="http://www.youtube.com/embed/5IwY5FVRHcs?rel=0&showinfo=0&autohide=1&fmt=18" frameborder="0" allowfullscreen></iframe> </div> </center>
+Feel Confident in a Bikini.<br>Join 18,000+ Women Worldwide</center></h1>
+                                        </h1>
+
+                                            <div class="frame-quote">
+                                                <center> <blockquote><font color=black>12 Week Programs Made for Busy People: Only 3 Hours Training a Week & 15 Minute Meals. <br> <br> <img src="images/icons/STARS.png"> <br> Just $59. Rated 4.5 Stars by Customers</font> </blockquote> </center>
+                                            </div>
+
+
+                                        </div>
+                                        <center><a href="#aboutamy" class="btn" data-animate-in="fadeInUp" data-animate-out="fadeOutDown"><span>Tell Me More  ↓</span></a></center><br> <br> <br>
+
+
+                            </div>
+                        </section>
+                                    </div>
+                        <!--/ Item -->
+                      </section>
+                      <section class="main-row", id="aboutamy">
+                          <div class="container">
+                            <h2 class="entry-title"><a href="">ABOUT AMY</a></h2>
+
+                                          <center> <!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/0a7abd572f99519089d9c57638d12eb9.html" id="lightwidget_0a7abd572f" name="lightwidget_0a7abd572f"  scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; max-width: 700px; border: 0; overflow: hidden;"></iframe> </center>
+                                          <div class="entry-meta"><p>
+                                            <p align="left">
+                                            <font color=black>I help women achieve their dream body. I am a certified coach living in Bondi in Sydney, Australia and I have helped over <b> 18,000 women from around the world online to become stronger and more confident. </b>
+My love of health and fitness began over 10 years ago when I joined a gym for the first time...
+
+<br><br> Boy have I come a long way, when I think back to that time! Over the years I have tried powerlifting, bodybuilding, CrossFit, a half-marathon, gymnastics, calisthenics and even Circus Sports. I have learned a tonne & have transformed my body into something I never thought it could be.
+<br>
+<br>Before becoming a coach, I actually spent many years at a desk job, even studying a Bachelor's Degree, and a Master's Degree, before deciding to take the leap and follow my true passion of health and fitness.
+Fast forward to today and I'm helping thousands of women around the world - and I'm loving every minute of it! :)
+                                        <br>
+
+
+                                        </font> </p>
+
+
+        <!-- PostList Slider -->
+
+        <section class="main-row-gray", id="pricing">
+
+          <div class="page-header invisible">
+
+              <div class="container">
+
+
+                <h2 class="entry-title"><a href="">The GO! Programs<br></a></h2>
+<br>
+                          <div class="page-title-before invisible" data-animate-in="fadeInLeft">WHAT CUSTOMERS ARE SAYING</div>
+                          <br>
+                          <br>
+                          <!-- PostList -->
+                          <section class="postlist">
+                            <!-- Post -->
+<article class="post clearfix">
+  <span class="post-thumbnail pull-left rounded"><img src="images/temp/thumb-49.jpg" alt=""></span>
+  <div class="entry-meta">
+    </div>
+  <div class="entry-content">
+<h2 class="entry-title"><a href="">Becky Dawson, 22, United Kingdom</a></h2>
+<p> "I'm loving the programme already! Love my evening sessions and the food plan is so good!! Thank you Amy! The meal plans are quick
+  and easy to prepare which is what I need as I don't have much time in the day! And the program is much more detailed than other ones
+   I have tried!"
+</p>
+                            <!-- Post -->
+                          <article class="post clearfix">
+                                <span class="post-thumbnail pull-left rounded"><img src="images/temp/thumb-48.jpg" alt=""></span>
+                                <div class="entry-meta">
+                                  </div>
+                                <div class="entry-content">
+                                    <h2 class="entry-title"><a href="">Alicia Bartolo, Bondi, Australia</a></h2>
+                                    <p>"When I found out Amy was putting out a 12 Week Program I couldn't wait!" And it's "Amazing! I don't have much time.
+                                      I am a nurse & work long hours. The meal plans are so easy & convenient & the workouts less then 3 hours a week is amazing
+                                      to get the bikini body I always wanted!"
+
+                              <!-- Post -->
+
+                              <article class="post clearfix">
+                                  <span class="post-thumbnail pull-left rounded"><img src="images/temp/thumb-50.jpg" alt=""></span>
+                                  <div class="entry-meta">
+                                    </div>
+                                  <div class="entry-content">
+                                      <h2 class="entry-title"><a href="">Zoe Bygrave, 26, United Kingdom</a></h2>
+                                      <p>"Absolutely loving the programme! With so many online trainers it is hard to find the right one! After looking online
+                                        I found Amy. She is genuinely interested in helping and guiding me to achieve my
+dream body!  With my busy lifestyle Amy's programs are the best for me." </p>
+                    <!-- Post -->
+                              <article class="post">
+                                  <span class="post-thumbnail pull-left rounded"><img src="images/temp/thumb-43.jpg" alt=""></span>
+                                  <div class="entry-meta">
+                                    </div>
+                                  <div class="entry-content">
+                                      <h2 class="entry-title"><a href="">Tara Juknaitė, 22, Ireland</a></h2>
+                                      <p>It's a "lovely programme! I enjoy every part of it! I couldn't even imagine that I would enjoy my diet. Amy can make your goals happen for real. She is that hero who gives me professional help and advice,
+realistic workouts & meals plus a passion to help and encourage others.”</p>
+</section>
+</div>
+      <section class="main-row-gray", id="aboutgo">
+     <div class="container">
+
+                          <p align="left">
+                            <div class="page-title-before invisible" data-animate-in="fadeInLeft">WHAT'S INSIDE?</div>
+                            <h2></h2>
+                            <center> <div class="workout-title-before"> <font color="black"> Amy's eBooks contain a 12 Week Workout & Meal Plan tailored to your specific goal. Inside, you'll find: </font> <br> <br> <br>
+                            <center/> </div>
+                            <!-- toggle accordion content -->
+                            <div class="panel-group" id="accordion">
+                                <div class="panel panel-info">
+                                    <div class="panel-heading">
+                                        <h4 class="panel-title">
+                                            <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+                                                Less Than 3 Hours Training a Week
+                                            </a>
+                                        </h4>
+                                    </div>
+                                    <div id="collapseOne" class="panel-collapse collapse in">
+                                        <div class="panel-body">
+                                          Because we are all busy :) So we need a solution that is fast and effective! You may be wondering, can you really get results in just 3 hours a week? Yes. Absolutely. It's what I do, it's what my clients do, and it works. It's about using your workout time effectively! Instead of spending hours training without structure and a strategy, you will get in - get a fast, fun and effective workout - and get out. In your sessions, you will be focusing on the most important exercises for your goal. And you'll actually be able to stick to them, because you can fit them into your week easily!
+                                    </div>
+                                </div>
+                                <div class="panel panel-teal">
+                                    <div class="panel-heading">
+                                        <h4 class="panel-title">
+                                            <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+                                                50+ Healthy, 15 Minute Recipes
+                                            </a>
+                                        </h4>
+                                    </div>
+                                    <div id="collapseTwo" class="panel-collapse collapse">
+                                        <div class="panel-body">
+                                            Because we all want to eat healthily & cook these perfect, elaborate meals - but who has the time? I know I don't ;) And besides, there are SO many delicious and healthy recipes that can be made in 15 minutes or less! Seriously. I have focused on the recipes that are delicious, healthy and can be made fast! Sure, I could give you lots of fancy recipes which would require you to buy lots of fancy ingredients and spend hours in the kitchen - but your goal is to get in shape & enjoy it, not become a michelin star chef! ;) Instead, the recipes are tasty, speedy & easy.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="panel panel-pink">
+                                    <div class="panel-heading">
+                                        <h4 class="panel-title">
+                                            <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
+                                                An Exercise Library with Photos
+                                            </a>
+                                        </h4>
+                                    </div>
+                                    <div id="collapseThree" class="panel-collapse collapse">
+                                        <div class="panel-body">
+                                            Because sometimes, you just need to see someone do it! Or read a few cues to help you to get the hang of a certain movement.</div>
+                                    </div>
+                                </div>
+                                    <div class="panel panel-info">
+                                        <div class="panel-heading">
+                                            <h4 class="panel-title">
+                                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFour">
+                                                    Home & Gym Versions Included
+                                                </a>
+                                            </h4>
+                                        </div>
+                                        <div id="collapseFour" class="panel-collapse collapse">
+                                            <div class="panel-body">
+                                                If you can't afford a gym, have kids to look after or travel a lot - there's a 12 week Home Version included in every program, as well as a 12 Week Gym Version - so gym or no gym, you'll have an effective and simple plan you can follow.</div>
+                                        </div>
+                                    </div>
+                                    <div class="panel panel-teal">
+                                        <div class="panel-heading">
+                                            <h4 class="panel-title">
+                                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFive">
+                                                    Special Diet Options
+                                                </a>
+                                            </h4>
+                                        </div>
+                                        <div id="collapseFive" class="panel-collapse collapse">
+                                            <div class="panel-body">
+                                                Are you following a Vegan or Vegetarian Diet? Are you cutting out Gluten or Dairy? I have catered my plans to you! Many of my recipes are already Vegan, Vegetarian, GF or dairy-free - but even when they aren't, I have included a delicious substitute ingredient! You might already know, I am a big lover of plant-based eating! So you'll find a lot of my meals are high in fruit & veg. Whatever your diet, there are options for you.
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="panel panel-pink">
+                                        <div class="panel-heading">
+                                            <h4 class="panel-title">
+                                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseSix">
+                                                    A 22 Tip Motivation Guide
+                                                </a>
+                                            </h4>
+                                        </div>
+                                        <div id="collapseSix" class="panel-collapse collapse">
+                                            <div class="panel-body">
+                                                For some women, motivation is the biggest challenge! It's no good if I just provide you with a diet & a workout program - you need to master your mind! I have shared here how I get and stay motivated (and believe me, it's not something I was born with!). My tips are practical & I even cover common obstacles & excuses (like sickness, money, injuries, motivation & more) and how to overcome these challenges! You won't be missing workouts anymore after you follow these tips in my eBook. </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            <!--/ toggle accordion content -->
+<br>
+<br>
+                                 <center> <div class="workout-title-before"> <font color="black"> ✓  Instantly downloadable anywhere in the world <br><br> ✓ Viewable on any device<br><br> ✓ 30 Day Money Back Guarantee </font>
+                               <center/> </div>
+</div>
+
+                              </section>
+                            </article>
+
+<br>
+</div>
+<article class="col-sm-12 post">
+    <div class="entry-content"><p>
+  <h2 class="entry-title"><a href=""><center>Get Started</center><br></a></h2>
+    <center> <img src="images/icons/greenarrow.png"> </center>
+    </article>
+</div>
+<center> <a href="services.html" class="btn" data-animate-in="fadeInUp" data-animate-out="fadeOutDown"><span>What's Your Goal?</span></a></center>
+
+<br>
+<br>
+<br>
+                    </article>
+
+                </div>
+
+
+                          </ul>
+              </div>
+          </div>
+        </section>
+    <!-- Footer -->
+
+    <footer class="site-footer" role="contentinfo">
+        <ul class="footer-social">
+            <li><a class="link-facebook" href="https://www.facebook.com/AmyLeeFit/" target="_blank"></a></li>
+            <li><a class="link-instagram" href=" https://www.instagram.com/amylfit/" target="_blank"></a></li>
+            <li><a class="link-vimeo" href="https://www.youtube.com/channel/UCV58fxvAfD8_8mJ8n9zd7yw" target="_blank"></a></li>
+        <!-- <ul class="nav-menu clearfix">
+            <li class="active"><a href="index.html"><span>Home</span></a></li>
+            <li><a href="workouts.html"><span>Workouts</span></a></li>
+            <li><a href="nutrition.html"><span>Nutrition</span></a></li>
+            <li><a href="stories.html"><span>Stories</span></a></li>
+            <li><a href="blog.html"><span>Blog</span></a></li>
+            <li><a href="pricing.html">Pages</a></li>
+            <li><a href="shortcodes-buttons.html">Shortcodes</a></li>
+            <li><a href="contact.html"><span>Contact</span></a></li>
+        </ul> -->
+
+      <br> <br>  <div class="copyright"> <font color="gray"><br>CONTACT AMY LEE FIT: enquire.amyleefit@gmail.com <br><br>&copy;2016 Amy Freeland</a><br>All Rights Reserved</a> <br> <br>
+<center> <li> <img src="https://www.paypalobjects.com/webstatic/mktg/logo/bdg_secured_by_pp_2line.png"> </li> <li> <img src="https://www.paypalobjects.com/webstatic/mktg/logo/PP_AcceptanceMarkTray-NoDiscover_243x40.png"> </li> <li> <img src="images/icons/productreview.jpg"> </li> </center> </div>
+    </footer>
+    <!-- Site Footer -->
+
+</div>
+<!-- #page -->
+
+<!-- JS Placed at the end of the document for faster page loading -->
+
+<!-- Libs -->
+<script src="js/libs/jquery-1.11.0.min.js"></script>
+<script src="js/libs/jquery-ui-1.10.4.min.js"></script>
+<script src="js/libs/bootstrap.min.js"></script>
+<!--[if lt IE 9]><script src="js/libs/respond.min.js"></script><![endif]-->
+
+<!-- Responsive Menu, Animated Dropdown -->
+<script src="js/jquery.slicknav.min.js"></script>
+
+<!-- CarouFredSel -->
+<script src="js/jquery.carouFredSel-6.2.1-packed.js"></script>
+<script src="js/jquery.touchSwipe.min.js"></script>
+
+<!-- Placeholders -->
+<script src="js/jquery.powerful-placeholder.min.js"></script>
+
+<!-- Styled Select -->
+<script src="js/cusel.min.js"></script>
+
+<!-- Attach Testimage to Header -->
+<script>
+    jQuery(function($) {
+        $('.main-slider, .page-header').prepend('<img src="images/temp/slide-1.jpg" alt="" id="testimage" class="hidden">');
+    });
+</script>
+
+<!-- General Scripts -->
+<script src="js/general.js"></script>
+
+
+</body>
+</html>
